@@ -1,0 +1,12 @@
+
+        #REGION MVC
+        /**
+         * @var string Default MVC controller.
+         */
+        const MVC_DEFAULT_CONTROLLER = 'home';
+
+        /**
+         * @var int MVC output buffer size in bytes.
+         */
+        const BUFFER_SIZE = 8192;
+        #ENDREGION MVC
